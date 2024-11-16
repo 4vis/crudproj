@@ -1,4 +1,4 @@
-# Git tutorial 
+# Github tutorial 
 
 Just learnt how branches, commiting and pull requests work on github
 
